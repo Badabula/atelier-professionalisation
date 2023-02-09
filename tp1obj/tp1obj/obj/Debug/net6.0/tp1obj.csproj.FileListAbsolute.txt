@@ -1,0 +1,15 @@
+C:\Users\Badr\source\repos\tp1obj\tp1obj\bin\Debug\net6.0\tp1obj.exe
+C:\Users\Badr\source\repos\tp1obj\tp1obj\bin\Debug\net6.0\tp1obj.deps.json
+C:\Users\Badr\source\repos\tp1obj\tp1obj\bin\Debug\net6.0\tp1obj.runtimeconfig.json
+C:\Users\Badr\source\repos\tp1obj\tp1obj\bin\Debug\net6.0\tp1obj.dll
+C:\Users\Badr\source\repos\tp1obj\tp1obj\bin\Debug\net6.0\tp1obj.pdb
+C:\Users\Badr\source\repos\tp1obj\tp1obj\obj\Debug\net6.0\tp1obj.csproj.AssemblyReference.cache
+C:\Users\Badr\source\repos\tp1obj\tp1obj\obj\Debug\net6.0\tp1obj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Badr\source\repos\tp1obj\tp1obj\obj\Debug\net6.0\tp1obj.AssemblyInfoInputs.cache
+C:\Users\Badr\source\repos\tp1obj\tp1obj\obj\Debug\net6.0\tp1obj.AssemblyInfo.cs
+C:\Users\Badr\source\repos\tp1obj\tp1obj\obj\Debug\net6.0\tp1obj.csproj.CoreCompileInputs.cache
+C:\Users\Badr\source\repos\tp1obj\tp1obj\obj\Debug\net6.0\tp1obj.dll
+C:\Users\Badr\source\repos\tp1obj\tp1obj\obj\Debug\net6.0\refint\tp1obj.dll
+C:\Users\Badr\source\repos\tp1obj\tp1obj\obj\Debug\net6.0\tp1obj.pdb
+C:\Users\Badr\source\repos\tp1obj\tp1obj\obj\Debug\net6.0\tp1obj.genruntimeconfig.cache
+C:\Users\Badr\source\repos\tp1obj\tp1obj\obj\Debug\net6.0\ref\tp1obj.dll

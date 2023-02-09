@@ -1,0 +1,15 @@
+C:\Users\Badr\source\repos\TPNombreMystere\TPNombreMystere\bin\Debug\net6.0\TPNombreMystere.exe
+C:\Users\Badr\source\repos\TPNombreMystere\TPNombreMystere\bin\Debug\net6.0\TPNombreMystere.deps.json
+C:\Users\Badr\source\repos\TPNombreMystere\TPNombreMystere\bin\Debug\net6.0\TPNombreMystere.runtimeconfig.json
+C:\Users\Badr\source\repos\TPNombreMystere\TPNombreMystere\bin\Debug\net6.0\TPNombreMystere.dll
+C:\Users\Badr\source\repos\TPNombreMystere\TPNombreMystere\bin\Debug\net6.0\TPNombreMystere.pdb
+C:\Users\Badr\source\repos\TPNombreMystere\TPNombreMystere\obj\Debug\net6.0\TPNombreMystere.csproj.AssemblyReference.cache
+C:\Users\Badr\source\repos\TPNombreMystere\TPNombreMystere\obj\Debug\net6.0\TPNombreMystere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Badr\source\repos\TPNombreMystere\TPNombreMystere\obj\Debug\net6.0\TPNombreMystere.AssemblyInfoInputs.cache
+C:\Users\Badr\source\repos\TPNombreMystere\TPNombreMystere\obj\Debug\net6.0\TPNombreMystere.AssemblyInfo.cs
+C:\Users\Badr\source\repos\TPNombreMystere\TPNombreMystere\obj\Debug\net6.0\TPNombreMystere.csproj.CoreCompileInputs.cache
+C:\Users\Badr\source\repos\TPNombreMystere\TPNombreMystere\obj\Debug\net6.0\TPNombreMystere.dll
+C:\Users\Badr\source\repos\TPNombreMystere\TPNombreMystere\obj\Debug\net6.0\refint\TPNombreMystere.dll
+C:\Users\Badr\source\repos\TPNombreMystere\TPNombreMystere\obj\Debug\net6.0\TPNombreMystere.pdb
+C:\Users\Badr\source\repos\TPNombreMystere\TPNombreMystere\obj\Debug\net6.0\TPNombreMystere.genruntimeconfig.cache
+C:\Users\Badr\source\repos\TPNombreMystere\TPNombreMystere\obj\Debug\net6.0\ref\TPNombreMystere.dll

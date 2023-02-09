@@ -1,0 +1,12 @@
+C:\Users\Badr\source\repos\EleveDll\EleveDll\bin\Debug\net6.0\EleveDll.deps.json
+C:\Users\Badr\source\repos\EleveDll\EleveDll\bin\Debug\net6.0\EleveDll.dll
+C:\Users\Badr\source\repos\EleveDll\EleveDll\bin\Debug\net6.0\EleveDll.pdb
+C:\Users\Badr\source\repos\EleveDll\EleveDll\obj\Debug\net6.0\EleveDll.csproj.AssemblyReference.cache
+C:\Users\Badr\source\repos\EleveDll\EleveDll\obj\Debug\net6.0\EleveDll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Badr\source\repos\EleveDll\EleveDll\obj\Debug\net6.0\EleveDll.AssemblyInfoInputs.cache
+C:\Users\Badr\source\repos\EleveDll\EleveDll\obj\Debug\net6.0\EleveDll.AssemblyInfo.cs
+C:\Users\Badr\source\repos\EleveDll\EleveDll\obj\Debug\net6.0\EleveDll.csproj.CoreCompileInputs.cache
+C:\Users\Badr\source\repos\EleveDll\EleveDll\obj\Debug\net6.0\EleveDll.dll
+C:\Users\Badr\source\repos\EleveDll\EleveDll\obj\Debug\net6.0\refint\EleveDll.dll
+C:\Users\Badr\source\repos\EleveDll\EleveDll\obj\Debug\net6.0\EleveDll.pdb
+C:\Users\Badr\source\repos\EleveDll\EleveDll\obj\Debug\net6.0\ref\EleveDll.dll

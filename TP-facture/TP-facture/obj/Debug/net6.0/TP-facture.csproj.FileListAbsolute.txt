@@ -1,0 +1,15 @@
+C:\Users\Badr\source\repos\TP-facture\TP-facture\obj\Debug\net6.0\TP-facture.csproj.AssemblyReference.cache
+C:\Users\Badr\source\repos\TP-facture\TP-facture\obj\Debug\net6.0\TP-facture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Badr\source\repos\TP-facture\TP-facture\obj\Debug\net6.0\TP-facture.AssemblyInfoInputs.cache
+C:\Users\Badr\source\repos\TP-facture\TP-facture\obj\Debug\net6.0\TP-facture.AssemblyInfo.cs
+C:\Users\Badr\source\repos\TP-facture\TP-facture\obj\Debug\net6.0\TP-facture.csproj.CoreCompileInputs.cache
+C:\Users\Badr\source\repos\TP-facture\TP-facture\bin\Debug\net6.0\TP-facture.exe
+C:\Users\Badr\source\repos\TP-facture\TP-facture\bin\Debug\net6.0\TP-facture.deps.json
+C:\Users\Badr\source\repos\TP-facture\TP-facture\bin\Debug\net6.0\TP-facture.runtimeconfig.json
+C:\Users\Badr\source\repos\TP-facture\TP-facture\bin\Debug\net6.0\TP-facture.dll
+C:\Users\Badr\source\repos\TP-facture\TP-facture\bin\Debug\net6.0\TP-facture.pdb
+C:\Users\Badr\source\repos\TP-facture\TP-facture\obj\Debug\net6.0\TP-facture.dll
+C:\Users\Badr\source\repos\TP-facture\TP-facture\obj\Debug\net6.0\refint\TP-facture.dll
+C:\Users\Badr\source\repos\TP-facture\TP-facture\obj\Debug\net6.0\TP-facture.pdb
+C:\Users\Badr\source\repos\TP-facture\TP-facture\obj\Debug\net6.0\TP-facture.genruntimeconfig.cache
+C:\Users\Badr\source\repos\TP-facture\TP-facture\obj\Debug\net6.0\ref\TP-facture.dll

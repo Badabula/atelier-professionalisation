@@ -1,0 +1,15 @@
+C:\Users\Badr\source\repos\imc_final2\imc_final2\bin\Debug\net6.0\imc_final2.exe
+C:\Users\Badr\source\repos\imc_final2\imc_final2\bin\Debug\net6.0\imc_final2.deps.json
+C:\Users\Badr\source\repos\imc_final2\imc_final2\bin\Debug\net6.0\imc_final2.runtimeconfig.json
+C:\Users\Badr\source\repos\imc_final2\imc_final2\bin\Debug\net6.0\imc_final2.dll
+C:\Users\Badr\source\repos\imc_final2\imc_final2\bin\Debug\net6.0\imc_final2.pdb
+C:\Users\Badr\source\repos\imc_final2\imc_final2\obj\Debug\net6.0\imc_final2.csproj.AssemblyReference.cache
+C:\Users\Badr\source\repos\imc_final2\imc_final2\obj\Debug\net6.0\imc_final2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Badr\source\repos\imc_final2\imc_final2\obj\Debug\net6.0\imc_final2.AssemblyInfoInputs.cache
+C:\Users\Badr\source\repos\imc_final2\imc_final2\obj\Debug\net6.0\imc_final2.AssemblyInfo.cs
+C:\Users\Badr\source\repos\imc_final2\imc_final2\obj\Debug\net6.0\imc_final2.csproj.CoreCompileInputs.cache
+C:\Users\Badr\source\repos\imc_final2\imc_final2\obj\Debug\net6.0\imc_final2.dll
+C:\Users\Badr\source\repos\imc_final2\imc_final2\obj\Debug\net6.0\refint\imc_final2.dll
+C:\Users\Badr\source\repos\imc_final2\imc_final2\obj\Debug\net6.0\imc_final2.pdb
+C:\Users\Badr\source\repos\imc_final2\imc_final2\obj\Debug\net6.0\imc_final2.genruntimeconfig.cache
+C:\Users\Badr\source\repos\imc_final2\imc_final2\obj\Debug\net6.0\ref\imc_final2.dll

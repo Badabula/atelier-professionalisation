@@ -1,0 +1,5 @@
+C:\Users\Badr\source\repos\icm_badr\icm_badr\obj\Debug\net6.0\icm_badr.csproj.AssemblyReference.cache
+C:\Users\Badr\source\repos\icm_badr\icm_badr\obj\Debug\net6.0\icm_badr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Badr\source\repos\icm_badr\icm_badr\obj\Debug\net6.0\icm_badr.AssemblyInfoInputs.cache
+C:\Users\Badr\source\repos\icm_badr\icm_badr\obj\Debug\net6.0\icm_badr.AssemblyInfo.cs
+C:\Users\Badr\source\repos\icm_badr\icm_badr\obj\Debug\net6.0\icm_badr.csproj.CoreCompileInputs.cache

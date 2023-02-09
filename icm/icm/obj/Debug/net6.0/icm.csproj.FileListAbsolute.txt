@@ -1,0 +1,15 @@
+C:\Users\Badr\source\repos\icm\icm\bin\Debug\net6.0\icm.exe
+C:\Users\Badr\source\repos\icm\icm\bin\Debug\net6.0\icm.deps.json
+C:\Users\Badr\source\repos\icm\icm\bin\Debug\net6.0\icm.runtimeconfig.json
+C:\Users\Badr\source\repos\icm\icm\bin\Debug\net6.0\icm.dll
+C:\Users\Badr\source\repos\icm\icm\bin\Debug\net6.0\icm.pdb
+C:\Users\Badr\source\repos\icm\icm\obj\Debug\net6.0\icm.csproj.AssemblyReference.cache
+C:\Users\Badr\source\repos\icm\icm\obj\Debug\net6.0\icm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Badr\source\repos\icm\icm\obj\Debug\net6.0\icm.AssemblyInfoInputs.cache
+C:\Users\Badr\source\repos\icm\icm\obj\Debug\net6.0\icm.AssemblyInfo.cs
+C:\Users\Badr\source\repos\icm\icm\obj\Debug\net6.0\icm.csproj.CoreCompileInputs.cache
+C:\Users\Badr\source\repos\icm\icm\obj\Debug\net6.0\icm.dll
+C:\Users\Badr\source\repos\icm\icm\obj\Debug\net6.0\refint\icm.dll
+C:\Users\Badr\source\repos\icm\icm\obj\Debug\net6.0\icm.pdb
+C:\Users\Badr\source\repos\icm\icm\obj\Debug\net6.0\icm.genruntimeconfig.cache
+C:\Users\Badr\source\repos\icm\icm\obj\Debug\net6.0\ref\icm.dll
