@@ -1,0 +1,12 @@
+C:\Users\Badr\source\repos\ClientDll\ClientDll\bin\Debug\net6.0\ClientDll.deps.json
+C:\Users\Badr\source\repos\ClientDll\ClientDll\bin\Debug\net6.0\ClientDll.dll
+C:\Users\Badr\source\repos\ClientDll\ClientDll\bin\Debug\net6.0\ClientDll.pdb
+C:\Users\Badr\source\repos\ClientDll\ClientDll\obj\Debug\net6.0\ClientDll.csproj.AssemblyReference.cache
+C:\Users\Badr\source\repos\ClientDll\ClientDll\obj\Debug\net6.0\ClientDll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Badr\source\repos\ClientDll\ClientDll\obj\Debug\net6.0\ClientDll.AssemblyInfoInputs.cache
+C:\Users\Badr\source\repos\ClientDll\ClientDll\obj\Debug\net6.0\ClientDll.AssemblyInfo.cs
+C:\Users\Badr\source\repos\ClientDll\ClientDll\obj\Debug\net6.0\ClientDll.csproj.CoreCompileInputs.cache
+C:\Users\Badr\source\repos\ClientDll\ClientDll\obj\Debug\net6.0\ClientDll.dll
+C:\Users\Badr\source\repos\ClientDll\ClientDll\obj\Debug\net6.0\refint\ClientDll.dll
+C:\Users\Badr\source\repos\ClientDll\ClientDll\obj\Debug\net6.0\ClientDll.pdb
+C:\Users\Badr\source\repos\ClientDll\ClientDll\obj\Debug\net6.0\ref\ClientDll.dll

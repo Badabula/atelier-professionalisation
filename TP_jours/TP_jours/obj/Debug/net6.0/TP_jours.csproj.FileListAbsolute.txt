@@ -1,0 +1,15 @@
+C:\Users\Badr\source\repos\TP_jours\TP_jours\bin\Debug\net6.0\TP_jours.exe
+C:\Users\Badr\source\repos\TP_jours\TP_jours\bin\Debug\net6.0\TP_jours.deps.json
+C:\Users\Badr\source\repos\TP_jours\TP_jours\bin\Debug\net6.0\TP_jours.runtimeconfig.json
+C:\Users\Badr\source\repos\TP_jours\TP_jours\bin\Debug\net6.0\TP_jours.dll
+C:\Users\Badr\source\repos\TP_jours\TP_jours\bin\Debug\net6.0\TP_jours.pdb
+C:\Users\Badr\source\repos\TP_jours\TP_jours\obj\Debug\net6.0\TP_jours.csproj.AssemblyReference.cache
+C:\Users\Badr\source\repos\TP_jours\TP_jours\obj\Debug\net6.0\TP_jours.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Badr\source\repos\TP_jours\TP_jours\obj\Debug\net6.0\TP_jours.AssemblyInfoInputs.cache
+C:\Users\Badr\source\repos\TP_jours\TP_jours\obj\Debug\net6.0\TP_jours.AssemblyInfo.cs
+C:\Users\Badr\source\repos\TP_jours\TP_jours\obj\Debug\net6.0\TP_jours.csproj.CoreCompileInputs.cache
+C:\Users\Badr\source\repos\TP_jours\TP_jours\obj\Debug\net6.0\TP_jours.dll
+C:\Users\Badr\source\repos\TP_jours\TP_jours\obj\Debug\net6.0\refint\TP_jours.dll
+C:\Users\Badr\source\repos\TP_jours\TP_jours\obj\Debug\net6.0\TP_jours.pdb
+C:\Users\Badr\source\repos\TP_jours\TP_jours\obj\Debug\net6.0\TP_jours.genruntimeconfig.cache
+C:\Users\Badr\source\repos\TP_jours\TP_jours\obj\Debug\net6.0\ref\TP_jours.dll

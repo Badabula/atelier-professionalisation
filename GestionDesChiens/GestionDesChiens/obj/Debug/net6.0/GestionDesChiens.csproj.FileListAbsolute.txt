@@ -1,0 +1,15 @@
+C:\Users\Badr\source\repos\GestionDesChiens\GestionDesChiens\bin\Debug\net6.0\GestionDesChiens.exe
+C:\Users\Badr\source\repos\GestionDesChiens\GestionDesChiens\bin\Debug\net6.0\GestionDesChiens.deps.json
+C:\Users\Badr\source\repos\GestionDesChiens\GestionDesChiens\bin\Debug\net6.0\GestionDesChiens.runtimeconfig.json
+C:\Users\Badr\source\repos\GestionDesChiens\GestionDesChiens\bin\Debug\net6.0\GestionDesChiens.dll
+C:\Users\Badr\source\repos\GestionDesChiens\GestionDesChiens\bin\Debug\net6.0\GestionDesChiens.pdb
+C:\Users\Badr\source\repos\GestionDesChiens\GestionDesChiens\obj\Debug\net6.0\GestionDesChiens.csproj.AssemblyReference.cache
+C:\Users\Badr\source\repos\GestionDesChiens\GestionDesChiens\obj\Debug\net6.0\GestionDesChiens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Badr\source\repos\GestionDesChiens\GestionDesChiens\obj\Debug\net6.0\GestionDesChiens.AssemblyInfoInputs.cache
+C:\Users\Badr\source\repos\GestionDesChiens\GestionDesChiens\obj\Debug\net6.0\GestionDesChiens.AssemblyInfo.cs
+C:\Users\Badr\source\repos\GestionDesChiens\GestionDesChiens\obj\Debug\net6.0\GestionDesChiens.csproj.CoreCompileInputs.cache
+C:\Users\Badr\source\repos\GestionDesChiens\GestionDesChiens\obj\Debug\net6.0\GestionDesChiens.dll
+C:\Users\Badr\source\repos\GestionDesChiens\GestionDesChiens\obj\Debug\net6.0\refint\GestionDesChiens.dll
+C:\Users\Badr\source\repos\GestionDesChiens\GestionDesChiens\obj\Debug\net6.0\GestionDesChiens.pdb
+C:\Users\Badr\source\repos\GestionDesChiens\GestionDesChiens\obj\Debug\net6.0\GestionDesChiens.genruntimeconfig.cache
+C:\Users\Badr\source\repos\GestionDesChiens\GestionDesChiens\obj\Debug\net6.0\ref\GestionDesChiens.dll

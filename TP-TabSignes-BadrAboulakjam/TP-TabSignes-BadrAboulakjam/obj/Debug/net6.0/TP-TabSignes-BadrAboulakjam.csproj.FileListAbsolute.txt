@@ -1,0 +1,15 @@
+C:\Users\Badr\source\repos\TP-TabSignes-BadrAboulakjam\TP-TabSignes-BadrAboulakjam\obj\Debug\net6.0\TP-TabSignes-BadrAboulakjam.csproj.AssemblyReference.cache
+C:\Users\Badr\source\repos\TP-TabSignes-BadrAboulakjam\TP-TabSignes-BadrAboulakjam\obj\Debug\net6.0\TP-TabSignes-BadrAboulakjam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Badr\source\repos\TP-TabSignes-BadrAboulakjam\TP-TabSignes-BadrAboulakjam\obj\Debug\net6.0\TP-TabSignes-BadrAboulakjam.AssemblyInfoInputs.cache
+C:\Users\Badr\source\repos\TP-TabSignes-BadrAboulakjam\TP-TabSignes-BadrAboulakjam\obj\Debug\net6.0\TP-TabSignes-BadrAboulakjam.AssemblyInfo.cs
+C:\Users\Badr\source\repos\TP-TabSignes-BadrAboulakjam\TP-TabSignes-BadrAboulakjam\obj\Debug\net6.0\TP-TabSignes-BadrAboulakjam.csproj.CoreCompileInputs.cache
+C:\Users\Badr\source\repos\TP-TabSignes-BadrAboulakjam\TP-TabSignes-BadrAboulakjam\bin\Debug\net6.0\TP-TabSignes-BadrAboulakjam.exe
+C:\Users\Badr\source\repos\TP-TabSignes-BadrAboulakjam\TP-TabSignes-BadrAboulakjam\bin\Debug\net6.0\TP-TabSignes-BadrAboulakjam.deps.json
+C:\Users\Badr\source\repos\TP-TabSignes-BadrAboulakjam\TP-TabSignes-BadrAboulakjam\bin\Debug\net6.0\TP-TabSignes-BadrAboulakjam.runtimeconfig.json
+C:\Users\Badr\source\repos\TP-TabSignes-BadrAboulakjam\TP-TabSignes-BadrAboulakjam\bin\Debug\net6.0\TP-TabSignes-BadrAboulakjam.dll
+C:\Users\Badr\source\repos\TP-TabSignes-BadrAboulakjam\TP-TabSignes-BadrAboulakjam\bin\Debug\net6.0\TP-TabSignes-BadrAboulakjam.pdb
+C:\Users\Badr\source\repos\TP-TabSignes-BadrAboulakjam\TP-TabSignes-BadrAboulakjam\obj\Debug\net6.0\TP-TabSignes-BadrAboulakjam.dll
+C:\Users\Badr\source\repos\TP-TabSignes-BadrAboulakjam\TP-TabSignes-BadrAboulakjam\obj\Debug\net6.0\refint\TP-TabSignes-BadrAboulakjam.dll
+C:\Users\Badr\source\repos\TP-TabSignes-BadrAboulakjam\TP-TabSignes-BadrAboulakjam\obj\Debug\net6.0\TP-TabSignes-BadrAboulakjam.pdb
+C:\Users\Badr\source\repos\TP-TabSignes-BadrAboulakjam\TP-TabSignes-BadrAboulakjam\obj\Debug\net6.0\TP-TabSignes-BadrAboulakjam.genruntimeconfig.cache
+C:\Users\Badr\source\repos\TP-TabSignes-BadrAboulakjam\TP-TabSignes-BadrAboulakjam\obj\Debug\net6.0\ref\TP-TabSignes-BadrAboulakjam.dll
