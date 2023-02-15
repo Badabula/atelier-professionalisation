@@ -1,0 +1,15 @@
+C:\Users\Badr\source\repos\TP3GestionCommerciale\TP3GestionCommerciale\bin\Debug\net6.0\TP3GestionCommerciale.exe
+C:\Users\Badr\source\repos\TP3GestionCommerciale\TP3GestionCommerciale\bin\Debug\net6.0\TP3GestionCommerciale.deps.json
+C:\Users\Badr\source\repos\TP3GestionCommerciale\TP3GestionCommerciale\bin\Debug\net6.0\TP3GestionCommerciale.runtimeconfig.json
+C:\Users\Badr\source\repos\TP3GestionCommerciale\TP3GestionCommerciale\bin\Debug\net6.0\TP3GestionCommerciale.dll
+C:\Users\Badr\source\repos\TP3GestionCommerciale\TP3GestionCommerciale\bin\Debug\net6.0\TP3GestionCommerciale.pdb
+C:\Users\Badr\source\repos\TP3GestionCommerciale\TP3GestionCommerciale\obj\Debug\net6.0\TP3GestionCommerciale.csproj.AssemblyReference.cache
+C:\Users\Badr\source\repos\TP3GestionCommerciale\TP3GestionCommerciale\obj\Debug\net6.0\TP3GestionCommerciale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Badr\source\repos\TP3GestionCommerciale\TP3GestionCommerciale\obj\Debug\net6.0\TP3GestionCommerciale.AssemblyInfoInputs.cache
+C:\Users\Badr\source\repos\TP3GestionCommerciale\TP3GestionCommerciale\obj\Debug\net6.0\TP3GestionCommerciale.AssemblyInfo.cs
+C:\Users\Badr\source\repos\TP3GestionCommerciale\TP3GestionCommerciale\obj\Debug\net6.0\TP3GestionCommerciale.csproj.CoreCompileInputs.cache
+C:\Users\Badr\source\repos\TP3GestionCommerciale\TP3GestionCommerciale\obj\Debug\net6.0\TP3GestionCommerciale.dll
+C:\Users\Badr\source\repos\TP3GestionCommerciale\TP3GestionCommerciale\obj\Debug\net6.0\refint\TP3GestionCommerciale.dll
+C:\Users\Badr\source\repos\TP3GestionCommerciale\TP3GestionCommerciale\obj\Debug\net6.0\TP3GestionCommerciale.pdb
+C:\Users\Badr\source\repos\TP3GestionCommerciale\TP3GestionCommerciale\obj\Debug\net6.0\TP3GestionCommerciale.genruntimeconfig.cache
+C:\Users\Badr\source\repos\TP3GestionCommerciale\TP3GestionCommerciale\obj\Debug\net6.0\ref\TP3GestionCommerciale.dll
