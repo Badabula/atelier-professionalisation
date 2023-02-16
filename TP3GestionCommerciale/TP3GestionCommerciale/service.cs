@@ -8,20 +8,36 @@ namespace TP3GestionCommerciale
 {
     internal class service
     {
+        private int i = 0;
         private int num;
-        private string[] tabcomm;
+        private Commercial[] tabcomm;
 
         public int Num { get => num; set => num = value; }
-        public string[] Tabcomm { get => tabcomm; set => tabcomm = value; }
+        public Commercial[] Tabcomm { get => tabcomm; set => tabcomm = value; }
+        public int I { get => i; set => i = value; }
 
-        public service(int p1, string[] p2)
+        public service(int p1, Commercial[] p2)
         {
             Num = p1;
             Num = 0;
             Tabcomm = p2;
-            Tabcomm = new string [10];
+            Tabcomm = new Commercial [10];
 
             
         }
+
+        public service()
+        {
+
+        }
+
+        public void ajouterCom(Commercial c)
+        {
+            
+            Tabcomm[I] = this.commercial;
+            I++;
+        }
+
+
     }
 }

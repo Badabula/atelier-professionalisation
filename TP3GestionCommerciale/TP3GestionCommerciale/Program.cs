@@ -9,7 +9,7 @@ Commercial c1 = new Commercial("Turra","Alex", 2002, ca2);
 Commercial c2 = new Commercial("Abdi", "Sarah", 1992, ca2);
 Commercial c3 = new Commercial("christopher", "Parenti", 1999, ca1);
 
-service national = new service();
+service national = new service(548, c1);
 service international = new service();
 
 
